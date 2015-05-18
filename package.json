@@ -1,0 +1,30 @@
+{
+  "name": "ut-cmd",
+  "version": "0.0.0",
+  "description": "unit test config for cmd",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "karma start test/config.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/hushicai/ut-cmd.git"
+  },
+  "author": "hushicai <bluthcy@gmail.com> (http://hushicai.com/)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hushicai/ut-cmd/issues"
+  },
+  "homepage": "https://github.com/hushicai/ut-cmd",
+  "devDependencies": {
+    "jasmine-core": "^2.2.0",
+    "karma": "^0.12.31",
+    "karma-browserify": "^4.1.2",
+    "karma-coverage": "^0.2.7",
+    "karma-jasmine": "^0.3.5",
+    "karma-phantomjs-launcher": "^0.1.4"
+  }
+}

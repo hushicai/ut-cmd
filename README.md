@@ -1,3 +1,3 @@
-# ut-nodejs
+# ut-cmd
 
-unit test config for nodejs
+ut config for cmdjs

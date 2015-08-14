@@ -1,7 +1,7 @@
 {
-  "name": "ut-cmd",
+  "name": "ut-commonjs",
   "version": "0.0.0",
-  "description": "unit test config for cmd",
+  "description": "unit test config for commonjs",
   "main": "index.js",
   "directories": {
     "test": "test"
@@ -11,14 +11,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/hushicai/ut-cmd.git"
+    "url": "git://github.com/hushicai/ut-commonjs.git"
   },
   "author": "hushicai <bluthcy@gmail.com> (http://hushicai.com/)",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/hushicai/ut-cmd/issues"
+    "url": "https://github.com/hushicai/ut-commonjs/issues"
   },
-  "homepage": "https://github.com/hushicai/ut-cmd",
+  "homepage": "https://github.com/hushicai/ut-commonjs",
   "devDependencies": {
     "jasmine-core": "^2.2.0",
     "karma": "^0.12.31",

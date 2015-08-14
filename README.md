@@ -1,3 +1,3 @@
-# ut-cmd
+# ut-commonjs
 
-ut config for cmdjs
+ut config for commonjs
